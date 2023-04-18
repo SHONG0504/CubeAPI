@@ -1,0 +1,6 @@
+#define WHITE 'w'
+#define YELLOW 'y'
+#define GREEN 'g'
+#define BLUE 'b'
+#define RED 'r'
+#define ORANGE 'o'
